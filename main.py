@@ -47,6 +47,8 @@ def pay(np_bins, square_hist, square, costs):
     plt.show()
     landings(np_bins, square_hist, square)
 
+    
+landings(np_bins, square_hist, square)
 pay(np_bins, square_hist, square, costs)
 
 
